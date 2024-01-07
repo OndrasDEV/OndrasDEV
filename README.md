@@ -1,9 +1,11 @@
--🇨🇿 Czech Developer
+🇨🇿 Czech Developer
 
--5yr experience in Python, 1yr in Golang
--Timezone: (GMT+1)
+5yr experience in Python
+1yr in Golang
 
--Main Project: SeSH
+Timezone: (GMT+1)
+
+Main Project: SeSH
 
 
 <!---
