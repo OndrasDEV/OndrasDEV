@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @OndrasDEV
-- 👀 I’m interested in Python,Batch
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Any Python related Project
-- 📫 How to reach me probably through discord: 
+-🇨🇿 Czech Developer
+-5yr experience in Python, 1yr in Golang
+-Timezone: (GMT+1)
+-Main Project: SeSH
+
 
 <!---
 OndrasDEV/OndrasDEV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
